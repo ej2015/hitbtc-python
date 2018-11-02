@@ -1,6 +1,6 @@
 # HITBTC API PYTHON CLIENT
 
-HitBTC REST API 2.0 client
+HitBTC REST API 2.0 client. Please refer to this [link](https://github.com/hitbtc-com/hitbtc-api). Some code are taken from the sample there.
 
 ## Initialize client
 
