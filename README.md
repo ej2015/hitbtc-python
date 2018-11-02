@@ -1,8 +1,8 @@
-#HITBTC API PYTHON CLIENT#
+# HITBTC API PYTHON CLIENT
 
 HitBTC REST API 2.0 client
 
-Initialize client:
+## Initialize client
 
 ```
 from hitbtc_client.client import Client
